@@ -37,8 +37,8 @@ project-root/
    ```bash
    ```
 
-git clone [https://github.com/your-username/covid19-trends.git](https://github.com/your-username/covid19-trends.git)
-cd covid19-trends
+git clone: https://github.com/tonywabuko/Covid-19-Global-Tracker
+
 
 ````
 2. **Install dependencies**
